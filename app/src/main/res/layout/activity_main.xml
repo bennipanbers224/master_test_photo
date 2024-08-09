@@ -12,7 +12,7 @@
         android:text="@string/hello_world"
         android:textSize="32sp"/>
 
-    <io.fotoapparat.view.CameraView
+    <androidx.camera.view.PreviewView
         android:id="@+id/cameraView"
         android:layout_width="match_parent"
         android:layout_height="230dp"
